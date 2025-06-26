@@ -1,5 +1,17 @@
 # MULTITHREADED--FILE-COMPRESSION-TOOL
 
+COMPANY NAME:CODETECH IT SOLUTION
+
+NAME: VEDVYAS KUMAR
+
+INTERN ID:CT04DF160
+
+DOMAIN:C++
+
+MENTOR:NEELA SANTOSH
+
+#DESCRIPTION
+
 the provided C++ program implements a basic Run-Length Encoding (RLE) algorithm, a simple yet effective data compression technique. The goal of RLE is to reduce the size of repetitive data by replacing sequences of the same character with a single instance of that character followed by the number of times it appears consecutively. This program allows users to compress or decompress text data stored in files using the RLE method.
 
 Overview
