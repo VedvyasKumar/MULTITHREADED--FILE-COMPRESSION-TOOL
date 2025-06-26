@@ -53,6 +53,13 @@ User Experience: Improve the interface for smoother interaction, such as support
 Conclusion
 This RLE program serves as a clear and practical example of how basic data compression algorithms can be implemented in C++. It demonstrates file handling, string manipulation, and control structures effectively. With a few modifications, it can be made more robust and suitable for real-world use.
 
+OUTPUT:
+![Image](https://github.com/user-attachments/assets/98703873-e922-4b5f-adf5-279ca566f97e)
+
+![Image](https://github.com/user-attachments/assets/338e80ae-93bf-41e9-82d8-3ce92a024f13)
+
+![Image](https://github.com/user-attachments/assets/1007e94a-ed25-49c5-93c1-6af636ed38a7)
+
 
 
 
